@@ -8,7 +8,6 @@ package controle;
 import Persistencia.EmpresaDAO;
 import entidade.Empresa;
 
-import java.util.ArrayList;
 import java.util.Collection;
 
 import apresentacao.TelaCadastroEmpresa;
